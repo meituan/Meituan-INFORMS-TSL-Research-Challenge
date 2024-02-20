@@ -1,0 +1,11 @@
+本数据集将按照“知识共享(Creative Commons)署名-非商业性使用 4.0 国际许可协议（CC BY-NC 4.0）”向您提供。您可通过访问网址 https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-Hans 了解 CC BY-NC 4.0协议内容。当您使用这些数据集时，您同意遵守 CC BY-NC 4.0 条款的约定，如果第三方对外许可的条款与 CC BY-NC 4.0相冲突，本许可条款应优先适用。我们再次重申，未经许可，不得对外分发本数据集，且本数据集仅用于非商业用途，例如学术研究、教学或科学出版等。我们并未允许您将数据集或其任何衍生作品用于商业目的，例如出售数据或将其用于商业利益。
+
+此外，基于本数据集的研究内容在进行公开发表时，需在致谢中注明：
+-中文致谢：本研究由美团提供数据支持。
+-英文致谢：This research was supported by data provided by Meituan.
+
+
+This dataset is provided under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). You can learn more information about the CC BY-NC 4.0 agreement by visiting https://creativecommons.org/licenses/by-nc/4.0/deed.en. When you use these datasets, you agree to comply with the terms of the CC BY-NC 4.0. If there is a conflict between the terms of a third-party license and CC BY-NC 4.0, this license shall take precedence. We reiterate that without permission, the distribution of this dataset to third parties is not allowed, and this dataset is intended for non-commercial use only, such as academic research, teaching, or scientific publishing. We do not grant you permission to use the dataset or any derivative works for commercial purposes, such as selling the data or using it for commercial gain.
+
+Besides, when publishing research based on this dataset, please include the following information in the acknowledgments: 
+This research was supported by data provided by Meituan.
