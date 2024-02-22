@@ -4,7 +4,6 @@
 -中文致谢：本研究由美团提供数据支持。
 -英文致谢：This research was supported by data provided by Meituan.
 
-
 This dataset is provided under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). You can learn more information about the CC BY-NC 4.0 agreement by visiting https://creativecommons.org/licenses/by-nc/4.0/deed.en. When you use these datasets, you agree to comply with the terms of the CC BY-NC 4.0. If there is a conflict between the terms of a third-party license and CC BY-NC 4.0, this license shall take precedence. We reiterate that without permission, the distribution of this dataset to third parties is not allowed, and this dataset is intended for non-commercial use only, such as academic research, teaching, or scientific publishing. We do not grant you permission to use the dataset or any derivative works for commercial purposes, such as selling the data or using it for commercial gain.
 
 Besides, when publishing research based on this dataset, please include the following information in the acknowledgments: 
